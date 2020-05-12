@@ -1,0 +1,9 @@
+#import Usuario, Perfil from 'Usuario.graphql'
+#import Produto from 'Produto.graphql'
+#import Query from 'Query.graphql'
+
+# Pontos de entrada da minha API
+# ola: String! -> Obrigatoriamente retorna uma string
+
+scalar Date
+
